@@ -2,25 +2,20 @@ body {
   background-color: yellowgreen;
 }
 
-#container {
-  background-color: lightblue;
-  border: 5px solid black;
-  height: 35vh;
-  width: 40vw;
-  margin: 0 auto;
-  text-align: center;
-}
-
 #btn {
   margin: 50px auto;
-  height: 50px;
+  height: 35px;
   width: 250px;
-  font-size: 20px;
+  font-size: 21px;
+  display: flex;
+  justify-content: center;
 }
 
 #output {
-  margin: 40px auto;
-  font-size: 24px;
+  margin: auto;
+  font-size: 1.8rem;
+  display: flex;
+  justify-content: center;
 }
 
 #heading {
