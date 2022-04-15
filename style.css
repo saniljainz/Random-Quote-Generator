@@ -1,0 +1,30 @@
+body {
+  background-color: yellowgreen;
+}
+
+#container {
+  background-color: lightblue;
+  border: 5px solid black;
+  height: 35vh;
+  width: 40vw;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#btn {
+  margin: 50px auto;
+  height: 50px;
+  width: 250px;
+  font-size: 20px;
+}
+
+#output {
+  margin: 40px auto;
+  font-size: 24px;
+}
+
+#heading {
+  font-size: 3rem;
+  text-align: center;
+  margin-top: 150px;
+}
